@@ -1,4 +1,4 @@
-# 📄 Resume Builder App
+# 📄 SkillSculpt
 
 A full-stack **Resume Builder** built with the **React (TailwindCSS)** frontend and **Firebase backend** for authentication and storage.  
 Users can log in, create multiple resumes with names, edit them dynamically, preview live updates, and export them as PDFs.  
